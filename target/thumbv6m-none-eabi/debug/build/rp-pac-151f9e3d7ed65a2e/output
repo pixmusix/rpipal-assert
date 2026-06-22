@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/tingles/Rust/embedded/rpipal_assert/target/thumbv6m-none-eabi/debug/build/rp-pac-151f9e3d7ed65a2e/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

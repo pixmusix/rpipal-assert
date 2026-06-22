@@ -1,0 +1,1 @@
+embassy_rp::i2c_slave::Config: Binding<embassy_rp::interrupt::typelevel::I2C1_IRQ, embassy_rp::i2c::InterruptHandler<I2C1>>

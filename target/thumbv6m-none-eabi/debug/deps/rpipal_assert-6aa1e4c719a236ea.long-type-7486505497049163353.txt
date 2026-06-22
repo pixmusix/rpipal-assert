@@ -1,0 +1,2 @@
+Irqs: Binding<embassy_rp::interrupt::typelevel::UART1_IRQ, embassy_rp::uart::InterruptHandler<UART1>>
+Binding<embassy_rp::interrupt::typelevel::UART0_IRQ, embassy_rp::uart::InterruptHandler<UART0>>
