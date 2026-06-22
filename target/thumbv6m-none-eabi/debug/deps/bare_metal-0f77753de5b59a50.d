@@ -1,7 +1,0 @@
-/home/tingles/Rust/embedded/rpipal_assert/target/thumbv6m-none-eabi/debug/deps/bare_metal-0f77753de5b59a50.d: /home/tingles/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bare-metal-0.2.5/src/lib.rs
-
-/home/tingles/Rust/embedded/rpipal_assert/target/thumbv6m-none-eabi/debug/deps/libbare_metal-0f77753de5b59a50.rlib: /home/tingles/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bare-metal-0.2.5/src/lib.rs
-
-/home/tingles/Rust/embedded/rpipal_assert/target/thumbv6m-none-eabi/debug/deps/libbare_metal-0f77753de5b59a50.rmeta: /home/tingles/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bare-metal-0.2.5/src/lib.rs
-
-/home/tingles/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bare-metal-0.2.5/src/lib.rs:

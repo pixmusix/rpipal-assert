@@ -1,1 +1,0 @@
-/home/tingles/Rust/embedded/rpipal_assert/target/thumbv6m-none-eabi/debug/rpipal_assert: /home/tingles/Rust/embedded/rpipal_assert/build.rs /home/tingles/Rust/embedded/rpipal_assert/memory.x /home/tingles/Rust/embedded/rpipal_assert/src/main.rs /home/tingles/Rust/embedded/rpipal_assert/src/spislave.rs

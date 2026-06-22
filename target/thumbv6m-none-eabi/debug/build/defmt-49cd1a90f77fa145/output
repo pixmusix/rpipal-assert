@@ -1,4 +1,0 @@
-cargo:rustc-link-search=/home/tingles/Rust/embedded/rpipal_assert/target/thumbv6m-none-eabi/debug/build/defmt-49cd1a90f77fa145/out
-cargo:rustc-cfg=no_cas
-cargo:rustc-check-cfg=cfg(c_variadic)
-cargo:rustc-check-cfg=cfg(no_cas)

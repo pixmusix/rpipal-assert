@@ -1,3 +1,0 @@
-Irqs: Binding<embassy_rp::interrupt::typelevel::PIO0_IRQ_0, embassy_rp::pio::InterruptHandler<PIO0>>
-Binding<embassy_rp::interrupt::typelevel::I2C1_IRQ, embassy_rp::i2c::InterruptHandler<I2C1>>
-Binding<embassy_rp::interrupt::typelevel::UART1_IRQ, embassy_rp::uart::InterruptHandler<UART1>>
