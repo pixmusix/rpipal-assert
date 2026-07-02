@@ -28,8 +28,8 @@ async fn echo_gpio(input: &mut Input<'_>, output: &mut Output<'_>) {
     input.wait_for_any_edge().await;
     
     match input.get_level() {
-        Level::High => output.set_high(),
-        Level::Low  => output.set_low(),
+        Level::High => output.set_low(),
+        Level::Low  => output.set_high(),
     }
     defmt::info!("rx: {:02X}, tx: {:02X}", input.get_level(), output.get_output_level());
 }
